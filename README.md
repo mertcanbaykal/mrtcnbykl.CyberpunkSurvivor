@@ -18,7 +18,7 @@
 
 *Cyberpunk Survivor*, eski tür atari oyunlarından esinlenen sanat tasarımı ve oynanış biçimiyle, Unity Oyun Motoru üzerinden C# programlama dili kullanılarak geliştirilmiştir. 
 
-- Oyunun sanat tasarımları, sanatçıların kamuya açık biçimde paylaştıkları çalışmaları ve kendi tasarımlarımın birleşimiyle oluşturulmuştur.
+- Oyunun görsel ve ses sanat tasarımları, sanatçıların kamuya açık biçimde paylaştıkları çalışmaları ve kendi tasarımlarımın birleşimiyle oluşturulmuştur.
 - Oyunun programlaması, düşünüp tasarlama ve araştırıp uygulama döngüsü içerisinde yapılmıştır.
 - Tasarım ve programlama süreçlerinde, üretken yapay anlak kullanımından kaçınılmıştır.
 
