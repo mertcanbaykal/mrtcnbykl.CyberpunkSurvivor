@@ -7,7 +7,7 @@
 </p>
 
 <p align = center>
-<img src="CyberpunkSurvivor.png"  style="width:60%;"/>
+<img src="CyberpunkSurvivor.png"  style="width:50%;"/>
 </p>
 
 
