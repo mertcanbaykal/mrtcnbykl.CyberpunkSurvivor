@@ -11,7 +11,7 @@
 </p>
 
 
-### Cyberpunk Survivor - Steam: [https://store.steampowered.com/app/4866450/Cyberpunk_Survivor/](https://store.steampowered.com/app/4866450/Cyberpunk_Survivor/)
+### Cyberpunk Survivor - Steam: [https://store.steampowered.com/app/4866450/Cyberpunk_Survivor](https://store.steampowered.com/app/4866450/Cyberpunk_Survivor)
 *Bağımsız **mrtcnbykl** geliştirici kimliğini kullanarak geliştirmiş olduğum **Cyberpunk Survivor** adlı oyun, 21 Eylül 2026 tarihinde Steam'de yayımlanmıştır.*
 
 <br>
