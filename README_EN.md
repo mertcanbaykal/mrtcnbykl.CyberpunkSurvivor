@@ -11,7 +11,7 @@
 </p>
 
 
-### Cyberpunk Survivor - Steam: [https://store.steampowered.com/app/4866450/Cyberpunk_Survivor/](https://store.steampowered.com/app/4866450/Cyberpunk_Survivor/)
+### Cyberpunk Survivor - Steam: [https://store.steampowered.com/app/4866450/Cyberpunk_Survivor](https://store.steampowered.com/app/4866450/Cyberpunk_Survivor)
 ***Cyberpunk Survivor**, a game I have developed using the independent developer identity **mrtcnbykl**, has been released on Steam on September 21, 2026.*
 
 <br>
